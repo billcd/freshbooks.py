@@ -1,2 +1,5 @@
 *.pyc
-
+.idea/
+test_app.py
+venv
+__pycache__
